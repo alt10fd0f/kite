@@ -11,4 +11,12 @@ import NodeInfoExplorer from "../../../../src/components/NodeInfoExplorer";
 
 The `Evaluate expression` block allows you to evaluate mathematical expressions and perform calculations. You can use variables and mathematical operators to create complex expressions.
 
+The symbols for the **Evaluate Expression** block for basic math such as addition, subtraction, multiplication and division.
+
+## Operation     |   Symbol
+`Addition`       |     `+`
+`Subtraction`    |     `-`
+`Multiplication` |     `*`
+`Division`       |     `/`
+
 <NodeInfoExplorer type="action_expression_evaluate" />
