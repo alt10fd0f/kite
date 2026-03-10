@@ -56,7 +56,7 @@ Just click on `Invite app` at top-right of the dashboard's overview page and sel
 
 It's time to try it out inside Discord!
 
-It can take up to a minute for your new command to appear inside Discord. Make sure you have invited the app to your server and restart your Discord client if the command doesn't appear!
+It can take up to a minute for your new command to appear inside Discord. Make sure you have invited the app to your server and restart your Discord client if the command doesn't appear! Please make sure to click the `Deploy Command` button inside of the command builder to send it to discord.
 
 ## Creating Your First Message Template
 
@@ -68,4 +68,4 @@ It can take up to a minute for your new command to appear inside Discord. Make s
 
 ![Example Message](./img/example-message.png)
 
-You can also use the newly created message template as a response to your previously created command!
+You can also use the newly created message template as a response to your previously created command! However, message templates **do not** work with buttons, as it creates an error in the flow.
